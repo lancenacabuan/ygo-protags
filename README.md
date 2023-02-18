@@ -1,5 +1,6 @@
-<h1>Yu-Gi-Oh! Protagonists</h1>
-<h2>Wallpaper 1080p Full HD</h2>
+<h1><a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags.jpg">Yu-Gi-Oh! Protagonists</a></h1>
+<h2><a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags.jpg">Wallpaper 1080p Full HD</a></h2>
+<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags.jpg">Click Here to View Image</a>
 <li>Yu-Gi-Oh! Duel Monsters (Yugi Muto/Yami)</li>
 <li>Yu-Gi-Oh! GX (Judai/Jaden Yuki)</li>
 <li>Yu-Gi-Oh! 5D's (Yusei Fudo)</li>
@@ -18,4 +19,8 @@ FAIR USE: This contains copyrighted materials, the use of which may not have bee
 </i>
 <br>
 <br>
-DeviantArt Link: <a href="https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Protagonists-Wallpaper-948790915">https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Protagonists-Wallpaper-948790915</a>
+Links:
+<li><a href="https://www.facebook.com/lancenacabuan/posts/pfbid02rPga39h7NDrWTCjFe46ackmKvGruTZWxk3jTeDLGy9z8HzxbPHkA77qhRSKC7r6Jl">Facebook</a></li>
+<li><a href="https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Protagonists-Wallpaper-948790915">DeviantArt</a></li>
+<li><a href="https://www.reddit.com/r/yugioh/comments/10xtz0g/yugioh_protagonists_wallpaper_hd/">Reddit</a></li>
+<li><a href="https://lancenacabuan.tumblr.com/post/709575256436817920/yu-gi-oh-protagonists-wallpaper-1080p-full-hd">Tumblr</a></li>
