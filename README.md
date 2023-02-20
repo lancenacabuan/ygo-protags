@@ -1,8 +1,21 @@
-<h1><a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags.jpg">Yu-Gi-Oh! Protagonists</a></h1>
-<h2><a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags.jpg">Wallpaper 1080p Full HD</a></h2>
+<h1>
+    <a href="https://lancenacabuan.tumblr.com/post/709575256436817920/yu-gi-oh-protagonists-wallpaper-1080p-full-hd">
+        Yu-Gi-Oh! Protagonists
+    </a>
+</h1>
+<h2>
+    <a href="https://lancenacabuan.tumblr.com/post/709575256436817920/yu-gi-oh-protagonists-wallpaper-1080p-full-hd">
+        Wallpaper 1080p Full HD
+    </a>
+</h2>
 <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags.jpg">
-<img src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags.jpg">
+    <img src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags.jpg">
 </a>
+<br>
+<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-vector.jpg">
+    <img src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-vector.jpg">
+</a>
+<hr>
 <li>Yu-Gi-Oh! Duel Monsters (Yugi Muto/Yami)</li>
 <li>Yu-Gi-Oh! GX (Judai/Jaden Yuki)</li>
 <li>Yu-Gi-Oh! 5D's (Yusei Fudo)</li>
