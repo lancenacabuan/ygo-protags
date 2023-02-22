@@ -34,8 +34,53 @@ FAIR USE: This contains copyrighted materials, the use of which may not have bee
 </i>
 <br>
 <br>
-Links:
-<li><a href="https://www.facebook.com/lancenacabuan/posts/pfbid02rPga39h7NDrWTCjFe46ackmKvGruTZWxk3jTeDLGy9z8HzxbPHkA77qhRSKC7r6Jl">Facebook</a></li>
-<li><a href="https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Protagonists-Wallpaper-948790915">DeviantArt</a></li>
-<li><a href="https://www.reddit.com/r/yugioh/comments/10xtz0g/yugioh_protagonists_wallpaper_hd/">Reddit</a></li>
-<li><a href="https://lancenacabuan.tumblr.com/post/709575256436817920/yu-gi-oh-protagonists-wallpaper-1080p-full-hd">Tumblr</a></li>
+LINKS
+<table>
+    <tbody>
+        <tr>
+            <td rowspan="2"><li>Facebook:&nbsp;</li></td>
+            <td>
+                <a href="https://www.facebook.com/lancenacabuan/posts/pfbid02rPga39h7NDrWTCjFe46ackmKvGruTZWxk3jTeDLGy9z8HzxbPHkA77qhRSKC7r6Jl">
+                    &nbsp;Pic 1&nbsp;
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://www.facebook.com/lancenacabuan/posts/pfbid0KSGkovb1SPcDTB3rBf1UzVxFAEt2XWr1SbfD6sH3vKp3o3JDe5Vpw1Ed5vLmrpUZl">
+                    &nbsp;Pic 2&nbsp;
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="2"><li>DeviantArt:&nbsp;</li></td>
+            <td>
+                <a href="https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Protagonists-Wallpaper-948790915">
+                    &nbsp;Pic 1&nbsp;
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Protagonists-Collection-950324939">
+                    &nbsp;Pic 2&nbsp;
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="2"><li>Reddit:&nbsp;</li></td>
+            <td>
+                <a href="https://www.reddit.com/r/yugioh/comments/10xtz0g/yugioh_protagonists_wallpaper_hd/">
+                    &nbsp;Pic 1&nbsp;
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://www.reddit.com/r/yugioh/comments/117q0v3/yugioh_protagonists_wallpaper_1080p_full_hd/">
+                    &nbsp;Pic 2&nbsp;
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
