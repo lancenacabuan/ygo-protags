@@ -21,7 +21,7 @@
 <li>Yu-Gi-Oh! 5D's (Yusei Fudo)</li>
 <li>Yu-Gi-Oh! ZEXAL (Yuma Tsukumo & Astral)</li>
 <li>Yu-Gi-Oh! Arc-V (Yuya Sakaki)</li>
-<li>Yu-Gi-Oh! VRAINS (Yusaku Fujiki / Playmaker)</li>
+<li>Yu-Gi-Oh! VRAINS (Yusaku Fujiki / Playmaker & Ai)</li>
 <li>Yu-Gi-Oh! Sevens (Yuga Ohdo)</li>
 <li>Yu-Gi-Oh! GO RUSH!! (Yudias Velgear)</li>
 <li>Yu-Gi-Oh! OCG Structures (Shoma Yusa)</li>
