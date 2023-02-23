@@ -19,7 +19,7 @@
 <li>Yu-Gi-Oh! Duel Monsters (Yugi Muto/Yami)</li>
 <li>Yu-Gi-Oh! GX (Judai/Jaden Yuki)</li>
 <li>Yu-Gi-Oh! 5D's (Yusei Fudo)</li>
-<li>Yu-Gi-Oh! ZEXAL (Yuma Tsukumo)</li>
+<li>Yu-Gi-Oh! ZEXAL (Yuma Tsukumo & Astral)</li>
 <li>Yu-Gi-Oh! Arc-V (Yuya Sakaki)</li>
 <li>Yu-Gi-Oh! VRAINS (Yusaku Fujiki / Playmaker)</li>
 <li>Yu-Gi-Oh! Sevens (Yuga Ohdo)</li>
