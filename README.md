@@ -1,18 +1,18 @@
 <h1>
-    <a href="https://lancenacabuan.tumblr.com/post/709575256436817920/ygoprotags" target="_blank">
+    <a href="https://lancenacabuan.tumblr.com/post/709575256436817920/ygoprotags">
         Yu-Gi-Oh! Protagonists
     </a>
 </h1>
 <h2>
-    <a href="https://lancenacabuan.tumblr.com/post/709575256436817920/ygoprotags" target="_blank">
+    <a href="https://lancenacabuan.tumblr.com/post/709575256436817920/ygoprotags">
         Wallpaper 1080p Full HD
     </a>
 </h2>
-<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags.jpg">
     <img src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags.jpg">
 </a>
 <br>
-<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-vector.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-vector.jpg">
     <img src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-vector.jpg">
 </a>
 <hr>
@@ -40,20 +40,20 @@ FAIR USE: This contains copyrighted materials, the use of which may not have bee
         <tr>
             <td rowspan="2">
                 <li>
-                    <a href="https://www.facebook.com/lancenacabuan" target="_blank">
+                    <a href="https://www.facebook.com/lancenacabuan">
                         Facebook
                     </a>
                 </li>
             </td>
             <td>
-                <a href="https://www.facebook.com/lancenacabuan/posts/pfbid02rPga39h7NDrWTCjFe46ackmKvGruTZWxk3jTeDLGy9z8HzxbPHkA77qhRSKC7r6Jl" target="_blank">
+                <a href="https://www.facebook.com/lancenacabuan/posts/pfbid02rPga39h7NDrWTCjFe46ackmKvGruTZWxk3jTeDLGy9z8HzxbPHkA77qhRSKC7r6Jl">
                     &nbsp;Pic 1&nbsp;
                 </a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://www.facebook.com/lancenacabuan/posts/pfbid0KSGkovb1SPcDTB3rBf1UzVxFAEt2XWr1SbfD6sH3vKp3o3JDe5Vpw1Ed5vLmrpUZl" target="_blank">
+                <a href="https://www.facebook.com/lancenacabuan/posts/pfbid0KSGkovb1SPcDTB3rBf1UzVxFAEt2XWr1SbfD6sH3vKp3o3JDe5Vpw1Ed5vLmrpUZl">
                     &nbsp;Pic 2&nbsp;
                 </a>
             </td>
@@ -61,20 +61,20 @@ FAIR USE: This contains copyrighted materials, the use of which may not have bee
         <tr>
             <td rowspan="2">
                 <li>
-                    <a href="https://www.deviantart.com/c4lance" target="_blank">
+                    <a href="https://www.deviantart.com/c4lance">
                         DeviantArt
                     </a>
                 </li>
             </td>
             <td>
-                <a href="https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Protagonists-Wallpaper-948790915" target="_blank">
+                <a href="https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Protagonists-Wallpaper-948790915">
                     &nbsp;Pic 1&nbsp;
                 </a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Protagonists-Collection-950324939" target="_blank">
+                <a href="https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Protagonists-Collection-950324939">
                     &nbsp;Pic 2&nbsp;
                 </a>
             </td>
@@ -82,20 +82,20 @@ FAIR USE: This contains copyrighted materials, the use of which may not have bee
         <tr>
             <td rowspan="2">
                 <li>
-                    <a href="https://www.reddit.com/user/lancenacabuan/" target="_blank">
+                    <a href="https://www.reddit.com/user/lancenacabuan/">
                         Reddit
                     </a>
                 </li>
             </td>
             <td>
-                <a href="https://www.reddit.com/r/yugioh/comments/10xtz0g/yugioh_protagonists_wallpaper_hd/" target="_blank">
+                <a href="https://www.reddit.com/r/yugioh/comments/10xtz0g/yugioh_protagonists_wallpaper_hd/">
                     &nbsp;Pic 1&nbsp;
                 </a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://www.reddit.com/r/yugioh/comments/117q0v3/yugioh_protagonists_wallpaper_1080p_full_hd/" target="_blank">
+                <a href="https://www.reddit.com/r/yugioh/comments/117q0v3/yugioh_protagonists_wallpaper_1080p_full_hd/">
                     &nbsp;Pic 2&nbsp;
                 </a>
             </td>
