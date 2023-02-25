@@ -1,10 +1,10 @@
 <h1>
-    <a href="https://lancenacabuan.tumblr.com/post/709575256436817920/yu-gi-oh-protagonists-wallpaper-1080p-full-hd">
+    <a href="https://lancenacabuan.tumblr.com/post/709575256436817920/ygoprotags">
         Yu-Gi-Oh! Protagonists
     </a>
 </h1>
 <h2>
-    <a href="https://lancenacabuan.tumblr.com/post/709575256436817920/yu-gi-oh-protagonists-wallpaper-1080p-full-hd">
+    <a href="https://lancenacabuan.tumblr.com/post/709575256436817920/ygoprotags">
         Wallpaper 1080p Full HD
     </a>
 </h2>
@@ -16,15 +16,15 @@
     <img src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-vector.jpg">
 </a>
 <hr>
-<li>Yu-Gi-Oh! Duel Monsters (Yugi Muto/Yami)</li>
-<li>Yu-Gi-Oh! GX (Judai/Jaden Yuki)</li>
-<li>Yu-Gi-Oh! 5D's (Yusei Fudo)</li>
-<li>Yu-Gi-Oh! ZEXAL (Yuma Tsukumo & Astral)</li>
-<li>Yu-Gi-Oh! Arc-V (Yuya Sakaki)</li>
-<li>Yu-Gi-Oh! VRAINS (Yusaku Fujiki / Playmaker & Ai)</li>
-<li>Yu-Gi-Oh! Sevens (Yuga Ohdo)</li>
-<li>Yu-Gi-Oh! GO RUSH!! (Yudias Velgear)</li>
-<li>Yu-Gi-Oh! OCG Structures (Shoma Yusa)</li>
+<li>Duel Monsters (Yugi Muto/Yami)</li>
+<li>GX (Judai/Jaden Yuki)</li>
+<li>5D's (Yusei Fudo)</li>
+<li>ZEXAL (Yuma Tsukumo & Astral)</li>
+<li>Arc-V (Yuya Sakaki)</li>
+<li>VRAINS (Yusaku Fujiki / Playmaker & Ai)</li>
+<li>Sevens (Yuga Ohdo)</li>
+<li>GO RUSH!! (Yudias Velgear)</li>
+<li>OCG Structures (Shoma Yusa)</li>
 <br>
 <i>
 FAIR USE: This contains copyrighted materials, the use of which may not have been specifically authorized by the copyright owner. No copyright infringement intended.
@@ -34,11 +34,17 @@ FAIR USE: This contains copyrighted materials, the use of which may not have bee
 </i>
 <br>
 <br>
-LINKS
+<b>LINKS</b>
 <table>
     <tbody>
         <tr>
-            <td rowspan="2"><li>Facebook:&nbsp;</li></td>
+            <td rowspan="2">
+                <li>
+                    <a href="https://www.facebook.com/lancenacabuan">
+                        Facebook:&nbsp;
+                    </a>
+                </li>
+            </td>
             <td>
                 <a href="https://www.facebook.com/lancenacabuan/posts/pfbid02rPga39h7NDrWTCjFe46ackmKvGruTZWxk3jTeDLGy9z8HzxbPHkA77qhRSKC7r6Jl">
                     &nbsp;Pic 1&nbsp;
@@ -53,7 +59,13 @@ LINKS
             </td>
         </tr>
         <tr>
-            <td rowspan="2"><li>DeviantArt:&nbsp;</li></td>
+            <td rowspan="2">
+                <li>
+                    <a href="https://www.deviantart.com/c4lance">
+                        DeviantArt:&nbsp;
+                    </a>
+                </li>
+            </td>
             <td>
                 <a href="https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Protagonists-Wallpaper-948790915">
                     &nbsp;Pic 1&nbsp;
@@ -68,7 +80,13 @@ LINKS
             </td>
         </tr>
         <tr>
-            <td rowspan="2"><li>Reddit:&nbsp;</li></td>
+            <td rowspan="2">
+                <li>
+                    <a href="https://www.reddit.com/user/lancenacabuan/">
+                        Reddit:&nbsp;
+                    </a>
+                </li>
+            </td>
             <td>
                 <a href="https://www.reddit.com/r/yugioh/comments/10xtz0g/yugioh_protagonists_wallpaper_hd/">
                     &nbsp;Pic 1&nbsp;
