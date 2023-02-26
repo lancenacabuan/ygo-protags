@@ -39,11 +39,9 @@ FAIR USE: This contains copyrighted materials, the use of which may not have bee
     <tbody>
         <tr>
             <td rowspan="2">
-                <li>
-                    <a href="https://www.facebook.com/lancenacabuan">
-                        Facebook
-                    </a>
-                </li>
+                <a href="https://www.facebook.com/lancenacabuan">
+                    Facebook
+                </a>
             </td>
             <td>
                 <a href="https://www.facebook.com/lancenacabuan/posts/pfbid02rPga39h7NDrWTCjFe46ackmKvGruTZWxk3jTeDLGy9z8HzxbPHkA77qhRSKC7r6Jl">
@@ -60,11 +58,28 @@ FAIR USE: This contains copyrighted materials, the use of which may not have bee
         </tr>
         <tr>
             <td rowspan="2">
-                <li>
-                    <a href="https://www.deviantart.com/c4lance">
-                        DeviantArt
-                    </a>
-                </li>
+                <a href="https://twitter.com/lancenacabuan">
+                    Twitter
+                </a>
+            </td>
+            <td>
+                <a href="https://twitter.com/lancenacabuan/status/1629806163759075329">
+                    Pic 1
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://twitter.com/lancenacabuan/status/1629806957073932288">
+                    Pic 2
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="2">
+                <a href="https://www.deviantart.com/c4lance">
+                    DeviantArt
+                </a>
             </td>
             <td>
                 <a href="https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Protagonists-Wallpaper-948790915">
@@ -81,11 +96,9 @@ FAIR USE: This contains copyrighted materials, the use of which may not have bee
         </tr>
         <tr>
             <td rowspan="2">
-                <li>
-                    <a href="https://www.reddit.com/user/lancenacabuan/">
-                        Reddit
-                    </a>
-                </li>
+                <a href="https://www.reddit.com/user/lancenacabuan/">
+                    Reddit
+                </a>
             </td>
             <td>
                 <a href="https://www.reddit.com/r/yugioh/comments/10xtz0g/yugioh_protagonists_wallpaper_hd/">
