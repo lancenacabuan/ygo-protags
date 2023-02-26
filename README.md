@@ -47,14 +47,14 @@ FAIR USE: This contains copyrighted materials, the use of which may not have bee
             </td>
             <td>
                 <a href="https://www.facebook.com/lancenacabuan/posts/pfbid02rPga39h7NDrWTCjFe46ackmKvGruTZWxk3jTeDLGy9z8HzxbPHkA77qhRSKC7r6Jl">
-                    &nbsp;Pic 1&nbsp;
+                    Pic 1
                 </a>
             </td>
         </tr>
         <tr>
             <td>
                 <a href="https://www.facebook.com/lancenacabuan/posts/pfbid0KSGkovb1SPcDTB3rBf1UzVxFAEt2XWr1SbfD6sH3vKp3o3JDe5Vpw1Ed5vLmrpUZl">
-                    &nbsp;Pic 2&nbsp;
+                    Pic 2
                 </a>
             </td>
         </tr>
@@ -68,14 +68,14 @@ FAIR USE: This contains copyrighted materials, the use of which may not have bee
             </td>
             <td>
                 <a href="https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Protagonists-Wallpaper-948790915">
-                    &nbsp;Pic 1&nbsp;
+                    Pic 1
                 </a>
             </td>
         </tr>
         <tr>
             <td>
                 <a href="https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Protagonists-Collection-950324939">
-                    &nbsp;Pic 2&nbsp;
+                    Pic 2
                 </a>
             </td>
         </tr>
@@ -89,14 +89,14 @@ FAIR USE: This contains copyrighted materials, the use of which may not have bee
             </td>
             <td>
                 <a href="https://www.reddit.com/r/yugioh/comments/10xtz0g/yugioh_protagonists_wallpaper_hd/">
-                    &nbsp;Pic 1&nbsp;
+                    Pic 1
                 </a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://www.reddit.com/r/yugioh/comments/117q0v3/yugioh_protagonists_wallpaper_1080p_full_hd/">
-                    &nbsp;Pic 2&nbsp;
+                <a href="https://www.reddit.com/r/yugioh/comments/11c8zsy/yugioh_protagonists_wallpaper_1080p_full_hd/">
+                    Pic 2
                 </a>
             </td>
         </tr>
