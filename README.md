@@ -24,6 +24,7 @@
 <li>VRAINS (Yusaku Fujiki / Playmaker & Ai)</li>
 <li>Sevens (Yuga Ohdo)</li>
 <li>GO RUSH!! (Yudias Velgear)</li>
+<li>Rush Duel LP (Taiyo Asobe)</li>
 <li>OCG Structures (Shoma Yusa)</li>
 <br>
 <i>
