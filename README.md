@@ -16,7 +16,7 @@
     <img src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-vector.jpg">
 </a>
 <hr>
-<li>Duel Monsters (Yugi Muto/Yami)</li>
+<li>Duel Monsters (Yugi Muto/Yami/Atem)</li>
 <li>GX (Judai/Jaden Yuki)</li>
 <li>5D's (Yusei Fudo)</li>
 <li>ZEXAL (Yuma Tsukumo & Astral)</li>
