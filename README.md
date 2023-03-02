@@ -25,8 +25,8 @@
 <li>Sevens (Yuga Ohdo)</li>
 <li>GO RUSH!! (Yudias Velgear)</li>
 <li>Rush Duel LP (Taiyo Asobe)</li>
-<li>OCG Structures / Saikyo Card Battle (Ohza Akaboshi)</li>
 <li>OCG Structures (Shoma Yusa)</li>
+<li>OCG Structures / Saikyo Card Battle (Ohza Akaboshi)</li>
 <br>
 <i>
 FAIR USE: This contains copyrighted materials, the use of which may not have been specifically authorized by the copyright owner. No copyright infringement intended.
