@@ -11,11 +11,18 @@
 <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags.jpg">
     <img src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags.jpg">
 </a>
+<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-basic.jpg">
+    <img src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-basic.jpg">
+</a>
 <br>
 <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-vector.jpg">
     <img src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-vector.jpg">
 </a>
+<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-anime.jpg">
+    <img src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-anime.jpg">
+</a>
 <hr>
+Anime:<br>
 <li>Duel Monsters (Yugi Muto/Yami/Atem)</li>
 <li>GX (Judai/Jaden Yuki)</li>
 <li>5D's (Yusei Fudo)</li>
@@ -24,6 +31,8 @@
 <li>VRAINS (Yusaku Fujiki / Playmaker & Ai)</li>
 <li>Sevens (Yuga Ohdo)</li>
 <li>GO RUSH!! (Yudias Velgear)</li>
+<br>
+Manga:<br>
 <li>Rush Duel LP (Taiyo Asobe)</li>
 <li>OCG Structures (Shoma Yusa)</li>
 <li>OCG Structures / Saikyo Card Battle (Ohza Akaboshi)</li>
@@ -40,7 +49,7 @@ FAIR USE: This contains copyrighted materials, the use of which may not have bee
 <table>
     <tbody>
         <tr>
-            <td rowspan="2">
+            <td>
                 <a href="https://www.facebook.com/lancenacabuan">
                     Facebook
                 </a>
@@ -50,16 +59,22 @@ FAIR USE: This contains copyrighted materials, the use of which may not have bee
                     Pic 1
                 </a>
             </td>
-        </tr>
-        <tr>
             <td>
-                <a href="https://www.facebook.com/lancenacabuan/posts/pfbid0KPmGV9LzoYFoQ5QV3CwTN4JnzLSQoyVoQntpceS1VRfab3XeU1qXNGa6gXMRSDK5l">
+                <a href="https://www.facebook.com/lancenacabuan/posts/pfbid02mqqbapz5u7NqsMFwbMG1Mi5xSceZqmDidVpQo38spYPy79wH9t5BB861Pd6mMYRSl">
                     Pic 2
                 </a>
             </td>
+            <td>
+                <a href="https://www.facebook.com/lancenacabuan/posts/pfbid0KPmGV9LzoYFoQ5QV3CwTN4JnzLSQoyVoQntpceS1VRfab3XeU1qXNGa6gXMRSDK5l">
+                    Pic 3
+                </a>
+            </td>
+            <td>
+                N/A
+            </td>
         </tr>
         <tr>
-            <td rowspan="2">
+            <td>
                 <a href="https://twitter.com/lancenacabuan">
                     Twitter
                 </a>
@@ -69,16 +84,20 @@ FAIR USE: This contains copyrighted materials, the use of which may not have bee
                     Pic 1
                 </a>
             </td>
-        </tr>
-        <tr>
+            <td>
+                N/A
+            </td>
             <td>
                 <a href="https://twitter.com/lancenacabuan/status/1629806957073932288">
-                    Pic 2
+                    Pic 3
                 </a>
+            </td>
+            <td>
+                N/A
             </td>
         </tr>
         <tr>
-            <td rowspan="2">
+            <td>
                 <a href="https://www.deviantart.com/c4lance">
                     DeviantArt
                 </a>
@@ -88,16 +107,22 @@ FAIR USE: This contains copyrighted materials, the use of which may not have bee
                     Pic 1
                 </a>
             </td>
-        </tr>
-        <tr>
             <td>
-                <a href="https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Protagonists-Collection-950324939">
+                <a href="https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Protagonists-890247092">
                     Pic 2
                 </a>
             </td>
+            <td>
+                <a href="https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Protagonists-Collection-950324939">
+                    Pic 3
+                </a>
+            </td>
+            <td>
+                N/A
+            </td>
         </tr>
         <tr>
-            <td rowspan="2">
+            <td>
                 <a href="https://www.reddit.com/user/lancenacabuan/">
                     Reddit
                 </a>
@@ -107,12 +132,16 @@ FAIR USE: This contains copyrighted materials, the use of which may not have bee
                     Pic 1
                 </a>
             </td>
-        </tr>
-        <tr>
+            <td>
+                N/A
+            </td>
             <td>
                 <a href="https://www.reddit.com/r/yugioh/comments/11c8zsy/yugioh_protagonists_wallpaper_1080p_full_hd/">
-                    Pic 2
+                    Pic 3
                 </a>
+            </td>
+            <td>
+                N/A
             </td>
         </tr>
     </tbody>
