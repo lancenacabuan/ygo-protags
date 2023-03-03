@@ -27,7 +27,7 @@ Anime:<br>
 <li>Sevens (Yuga Ohdo)</li>
 <li>GO RUSH!! (Yudias Velgear)</li>
 <br>
-Manga:<br>
+Manga / Game:<br>
 <li>Rush Duel LP (Taiyo Asobe)</li>
 <li>OCG Structures (Shoma Yusa)</li>
 <li>OCG Structures / Saikyo Card Battle (Ohza Akaboshi)</li>
@@ -65,7 +65,9 @@ FAIR USE: This contains copyrighted materials, the use of which may not have bee
                 </a>
             </td>
             <td>
-                N/A
+                <a href="https://www.facebook.com/lancenacabuan/posts/pfbid0RRM6b9fk5Qxri5EpBvr9za4Pgjcy1nHY1ErDajr2fvGTonuBM5CpMgr9QHU5WkZYl">
+                    Pic 4
+                </a>
             </td>
         </tr>
         <tr>
@@ -91,33 +93,6 @@ FAIR USE: This contains copyrighted materials, the use of which may not have bee
             </td>
             <td>
                 <a href="https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Anime-Protagonists-951950994">
-                    Pic 4
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://www.reddit.com/user/lancenacabuan/">
-                    Reddit
-                </a>
-            </td>
-            <td>
-                <a href="https://www.reddit.com/r/yugioh/comments/10xtz0g/yugioh_protagonists_wallpaper_hd/">
-                    Pic 1
-                </a>
-            </td>
-            <td>
-                <a href="https://www.reddit.com/r/yugioh/comments/11gvuh9/yugioh_anime_protagonists_gen_1_to_8/">
-                    Pic 2
-                </a>
-            </td>
-            <td>
-                <a href="https://www.reddit.com/r/yugioh/comments/11c8zsy/yugioh_protagonists_wallpaper_1080p_full_hd/">
-                    Pic 3
-                </a>
-            </td>
-            <td>
-                <a href="https://www.reddit.com/r/yugioh/comments/11gw91c/yugioh_protagonists_wallpaper_1080p_full_hd/">
                     Pic 4
                 </a>
             </td>
