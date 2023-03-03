@@ -3,11 +3,6 @@
         Yu-Gi-Oh! Protagonists
     </a>
 </h1>
-<h2>
-    <a href="https://lancenacabuan.tumblr.com/post/709575256436817920/ygoprotags">
-        Wallpaper 1080p Full HD
-    </a>
-</h2>
 <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags.jpg">
     <img src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags.jpg">
 </a>
