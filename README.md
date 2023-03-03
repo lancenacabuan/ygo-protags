@@ -70,29 +70,6 @@ FAIR USE: This contains copyrighted materials, the use of which may not have bee
         </tr>
         <tr>
             <td>
-                <a href="https://twitter.com/lancenacabuan">
-                    Twitter
-                </a>
-            </td>
-            <td>
-                <a href="https://twitter.com/lancenacabuan/status/1629806163759075329">
-                    Pic 1
-                </a>
-            </td>
-            <td>
-                N/A
-            </td>
-            <td>
-                <a href="https://twitter.com/lancenacabuan/status/1629806957073932288">
-                    Pic 3
-                </a>
-            </td>
-            <td>
-                N/A
-            </td>
-        </tr>
-        <tr>
-            <td>
                 <a href="https://www.deviantart.com/c4lance">
                     DeviantArt
                 </a>
