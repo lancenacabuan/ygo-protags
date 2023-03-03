@@ -105,7 +105,9 @@ FAIR USE: This contains copyrighted materials, the use of which may not have bee
                 </a>
             </td>
             <td>
-                N/A
+                <a href="https://www.reddit.com/r/yugioh/comments/11gvuh9/yugioh_anime_protagonists_gen_1_to_8/">
+                    Pic 2
+                </a>
             </td>
             <td>
                 <a href="https://www.reddit.com/r/yugioh/comments/11c8zsy/yugioh_protagonists_wallpaper_1080p_full_hd/">
