@@ -90,7 +90,9 @@ FAIR USE: This contains copyrighted materials, the use of which may not have bee
                 </a>
             </td>
             <td>
-                N/A
+                <a href="https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Anime-Protagonists-951950994">
+                    Pic 4
+                </a>
             </td>
         </tr>
         <tr>
@@ -115,7 +117,9 @@ FAIR USE: This contains copyrighted materials, the use of which may not have bee
                 </a>
             </td>
             <td>
-                N/A
+                <a href="https://www.reddit.com/r/yugioh/comments/11gw91c/yugioh_protagonists_wallpaper_1080p_full_hd/">
+                    Pic 4
+                </a>
             </td>
         </tr>
     </tbody>
