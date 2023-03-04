@@ -59,7 +59,7 @@ FAIR USE: This contains copyrighted materials, the use of which may not have bee
             </td>
             <td colspan="2">
                 <a href="https://www.facebook.com/lancenacabuan/posts/pfbid02mqqbapz5u7NqsMFwbMG1Mi5xSceZqmDidVpQo38spYPy79wH9t5BB861Pd6mMYRSl">
-                    Pic 2 & 3
+                    Pic 2 & Pic 3
                 </a>
             </td>
             <td>
@@ -102,6 +102,31 @@ FAIR USE: This contains copyrighted materials, the use of which may not have bee
             <td>
                 <a href="https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Anime-Protagonists-951950994">
                     Pic 5
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://www.reddit.com/user/lancenacabuan/">
+                    Reddit (Old Versions)
+                </a>
+            </td>
+            <td>
+                <a href="https://www.reddit.com/r/yugioh/comments/10xtz0g/yugioh_protagonists_wallpaper_hd/">
+                    Pic 1
+                </a>
+            </td>
+            <td>
+                <a href="https://www.reddit.com/r/yugioh/comments/11gvuh9/yugioh_anime_protagonists_gen_1_to_8/">
+                    Pic 2
+                </a>
+            </td>
+            <td>
+                N/A
+            </td>
+            <td colspan="2">
+                <a href="https://www.reddit.com/r/yugioh/comments/11c8zsy/yugioh_protagonists_wallpaper_1080p_full_hd/">
+                    Pic 4 & Pic 5
                 </a>
             </td>
         </tr>
