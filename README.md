@@ -49,7 +49,7 @@ FAIR USE: This contains copyrighted materials, the use of which may not have bee
         <tr>
             <td>
                 <a href="https://www.facebook.com/lancenacabuan">
-                    Facebook
+                    Facebook (Latest)
                 </a>
             </td>
             <td>
@@ -76,7 +76,7 @@ FAIR USE: This contains copyrighted materials, the use of which may not have bee
         <tr>
             <td>
                 <a href="https://www.deviantart.com/c4lance">
-                    DeviantArt
+                    DeviantArt (Latest)
                 </a>
             </td>
             <td>
