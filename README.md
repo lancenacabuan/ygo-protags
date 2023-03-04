@@ -9,6 +9,9 @@
 <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-basic.jpg">
     <img src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-basic.jpg">
 </a>
+<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-basic-hd.jpg">
+    <img src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-basic-hd.jpg">
+</a>
 <br>
 <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-vector.jpg">
     <img src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-vector.jpg">
@@ -54,19 +57,19 @@ FAIR USE: This contains copyrighted materials, the use of which may not have bee
                     Pic 1
                 </a>
             </td>
-            <td>
+            <td colspan="2">
                 <a href="https://www.facebook.com/lancenacabuan/posts/pfbid02mqqbapz5u7NqsMFwbMG1Mi5xSceZqmDidVpQo38spYPy79wH9t5BB861Pd6mMYRSl">
-                    Pic 2
+                    Pic 2 & 3
                 </a>
             </td>
             <td>
                 <a href="https://www.facebook.com/lancenacabuan/posts/pfbid0KPmGV9LzoYFoQ5QV3CwTN4JnzLSQoyVoQntpceS1VRfab3XeU1qXNGa6gXMRSDK5l">
-                    Pic 3
+                    Pic 4
                 </a>
             </td>
             <td>
                 <a href="https://www.facebook.com/lancenacabuan/posts/pfbid0RRM6b9fk5Qxri5EpBvr9za4Pgjcy1nHY1ErDajr2fvGTonuBM5CpMgr9QHU5WkZYl">
-                    Pic 4
+                    Pic 5
                 </a>
             </td>
         </tr>
@@ -87,13 +90,18 @@ FAIR USE: This contains copyrighted materials, the use of which may not have bee
                 </a>
             </td>
             <td>
-                <a href="https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Protagonists-Collection-950324939">
+                <a href="https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Protagonists-Gen-1-to-8-HD-948771145">
                     Pic 3
                 </a>
             </td>
             <td>
-                <a href="https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Anime-Protagonists-951950994">
+                <a href="https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Protagonists-Collection-950324939">
                     Pic 4
+                </a>
+            </td>
+            <td>
+                <a href="https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Anime-Protagonists-951950994">
+                    Pic 5
                 </a>
             </td>
         </tr>
