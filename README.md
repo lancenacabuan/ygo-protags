@@ -1,6 +1,6 @@
 <h1>
     <a href="https://lancenacabuan.tumblr.com/post/709575256436817920/ygoprotags">
-        Yu-Gi-Oh! Protagonists
+        Yu-Gi-Oh! Protagonists + Ace Monsters
     </a>
 </h1>
 <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags.jpg">
@@ -19,16 +19,19 @@
 <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-anime.jpg">
     <img src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-anime.jpg">
 </a>
+<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-aces.jpg">
+    <img src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-aces.jpg">
+</a>
 <hr>
 Anime:<br>
-<li>Duel Monsters (Yugi Muto/Yami/Atem)</li>
-<li>GX (Judai/Jaden Yuki)</li>
-<li>5D's (Yusei Fudo)</li>
-<li>ZEXAL (Yuma Tsukumo & Astral)</li>
-<li>Arc-V (Yuya Sakaki)</li>
-<li>VRAINS (Yusaku Fujiki / Playmaker & Ai)</li>
-<li>Sevens (Yuga Ohdo)</li>
-<li>GO RUSH!! (Yudias Velgear)</li>
+<li>Duel Monsters (Yugi Muto/Yami/Atem) [Dark Magician]</li>
+<li>GX (Judai/Jaden Yuki) [Elemental HERO Neos]</li>
+<li>5D's (Yusei Fudo) [Stardust Dragon]</li>
+<li>ZEXAL (Yuma Tsukumo & Astral) [Number 39: Utopia]</li>
+<li>Arc-V (Yuya Sakaki) [Odd-Eyes Pendulum Dragon]</li>
+<li>VRAINS (Yusaku Fujiki / Playmaker & Ai) [Firewall Dragon]</li>
+<li>Sevens (Yuga Ohdo) [Sevens Road Magician]</li>
+<li>GO RUSH!! (Yudias Velgear) [Galactica Oblivion]</li>
 <br>
 Manga / Game:<br>
 <li>Rush Duel LP (Taiyo Asobe)</li>
@@ -72,6 +75,11 @@ FAIR USE: This contains copyrighted materials, the use of which may not have bee
                     Pic 5
                 </a>
             </td>
+            <td>
+                <a href="https://www.facebook.com/lancenacabuan/posts/pfbid0jx69RfLA5MaF8Jo8qRKw4uE2FBK4LSWRYgv8TmjUDra1exqa8gKzR5MTmJPwuFJDl">
+                    Pic 6
+                </a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -104,6 +112,11 @@ FAIR USE: This contains copyrighted materials, the use of which may not have bee
                     Pic 5
                 </a>
             </td>
+            <td>
+                <a href="https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Protagonists-Ace-Monsters-953414737">
+                    Pic 6
+                </a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -127,6 +140,11 @@ FAIR USE: This contains copyrighted materials, the use of which may not have bee
             <td colspan="2">
                 <a href="https://www.reddit.com/r/yugioh/comments/11c8zsy/yugioh_protagonists_wallpaper_1080p_full_hd/">
                     Pic 4 & Pic 5
+                </a>
+            </td>
+            <td>
+                <a href="https://www.reddit.com/r/yugioh/comments/11q4c3e/best_ace_monster_which_protagonist_main_ace/">
+                    Pic 6
                 </a>
             </td>
         </tr>
