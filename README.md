@@ -3,8 +3,8 @@
         Yu-Gi-Oh! Protagonists + Ace Monsters
     </a>
 </h1>
-<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags.jpg">
-    <img src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags.jpg">
+<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-shoma.jpg">
+    <img src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-shoma.jpg">
 </a>
 <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-basic.jpg">
     <img src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-basic.jpg">
@@ -13,8 +13,8 @@
     <img src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-basic-hd.jpg">
 </a>
 <br>
-<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-vector.jpg">
-    <img src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-vector.jpg">
+<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-all.jpg">
+    <img src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-all.jpg">
 </a>
 <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-anime.jpg">
     <img src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-anime.jpg">
