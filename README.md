@@ -23,11 +23,19 @@
     <img title="Pic 6: ygo-protags-aces" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-aces.jpg">
 </a>
 <hr>
-<b>Other Pics:</b><br>
-<li><a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-sedca.jpg">ygo-protag-sedca</a></li>
-<li><a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-talad.jpg">ygo-protag-talad</a></li>
+<b>OTHER PICS:</b><br>
+<li>
+    <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-sedca.jpg">
+        ygo-protags-sedca
+    </a>
+</li>
+<li>
+    <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-talad.jpg">
+        ygo-protags-talad
+    </a>
+</li>
 <hr>
-<b>Anime:</b><br>
+<b>ANIME:</b><br>
 <li>Duel Monsters (Yugi Muto/Yami/Atem) [Dark Magician]</li>
 <li>GX (Judai/Jaden Yuki) [Elemental HERO Neos]</li>
 <li>5D's (Yusei Fudo) [Stardust Dragon]</li>
@@ -37,18 +45,18 @@
 <li>Sevens (Yuga Ohdo) [Sevens Road Magician]</li>
 <li>GO RUSH!! (Yudias Velgear) [Galactica Oblivion]</li>
 <br>
-<b>Manga / Game:</b><br>
+<b>MANGA / GAME:</b><br>
 <li>Rush Duel LP (Taiyo Asobe)</li>
 <li>OCG Structures (Shoma Yusa)</li>
 <li>OCG Structures / Saikyo Card Battle (Ohza Akaboshi)</li>
-<br>
+<hr>
 <i>
-FAIR USE: This contains copyrighted materials, the use of which may not have been specifically authorized by the copyright owner. No copyright infringement intended.
+    FAIR USE: This contains copyrighted materials, the use of which may not have been specifically authorized by the copyright owner. No copyright infringement intended.
 <br>
 <br>
-(Copyright Disclaimer Under Section 107 of the Copyright Act 1976: Allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.)
+    (Copyright Disclaimer Under Section 107 of the Copyright Act 1976: Allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.)
 </i>
-<br>
+<hr>
 <br>
 <b>LINKS:</b>
 <table>
