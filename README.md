@@ -23,11 +23,11 @@
     <img title="Pic 6: ygo-protags-aces" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-aces.jpg">
 </a>
 <hr>
-<u>Other Pics</u>:<br>
+<b>Other Pics:</b><br>
 <li><a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-sedca.jpg">ygo-protag-sedca</a></li>
 <li><a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-talad.jpg">ygo-protag-talad</a></li>
 <hr>
-<u>Anime</u>:<br>
+<b>Anime:</b><br>
 <li>Duel Monsters (Yugi Muto/Yami/Atem) [Dark Magician]</li>
 <li>GX (Judai/Jaden Yuki) [Elemental HERO Neos]</li>
 <li>5D's (Yusei Fudo) [Stardust Dragon]</li>
@@ -37,7 +37,7 @@
 <li>Sevens (Yuga Ohdo) [Sevens Road Magician]</li>
 <li>GO RUSH!! (Yudias Velgear) [Galactica Oblivion]</li>
 <br>
-<u>Manga / Game</u>:<br>
+<b>Manga / Game:</b><br>
 <li>Rush Duel LP (Taiyo Asobe)</li>
 <li>OCG Structures (Shoma Yusa)</li>
 <li>OCG Structures / Saikyo Card Battle (Ohza Akaboshi)</li>
