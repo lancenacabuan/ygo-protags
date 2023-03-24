@@ -13,8 +13,8 @@
     <img title="Pic 3: ygo-protags-basic-hd" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-basic-hd.jpg">
 </a>
 <br>
-<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-all.jpg">
-    <img title="Pic 4: ygo-protags-all" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-all.jpg">
+<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-max.jpg">
+    <img title="Pic 4: ygo-protags-max" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-max.jpg">
 </a>
 <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-anime.jpg">
     <img title="Pic 5: ygo-protags-anime" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-anime.jpg">
@@ -24,6 +24,11 @@
 </a>
 <hr>
 <b>OTHER PICS:</b><br>
+<li>
+    <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-plus.jpg">
+        ygo-protags-plus
+    </a>
+</li>
 <li>
     <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-sedca.jpg">
         ygo-protags-sedca
@@ -76,7 +81,7 @@
                     Pic 2 & Pic 3
                 </a>
             </td>
-            <td title="ygo-protags-all">
+            <td title="ygo-protags-max">
                 <a href="https://www.facebook.com/lancenacabuan/posts/pfbid0KPmGV9LzoYFoQ5QV3CwTN4JnzLSQoyVoQntpceS1VRfab3XeU1qXNGa6gXMRSDK5l">
                     Pic 4
                 </a>
@@ -113,7 +118,7 @@
                     Pic 3
                 </a>
             </td>
-            <td title="ygo-protags-all">
+            <td title="ygo-protags-max">
                 <a href="https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Protagonists-Collection-950324939">
                     Pic 4
                 </a>
@@ -148,7 +153,7 @@
             <td>
                 N/A
             </td>
-            <td title="ygo-protags-all/anime" colspan="2">
+            <td title="ygo-protags-max/anime" colspan="2">
                 <a href="https://www.reddit.com/r/yugioh/comments/11c8zsy/yugioh_protagonists_wallpaper_1080p_full_hd/">
                     Pic 4 & Pic 5
                 </a>
