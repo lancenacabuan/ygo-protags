@@ -25,11 +25,6 @@
 <hr>
 <b>OTHER PICS:</b><br>
 <li>
-    <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-plus.jpg">
-        ygo-protags-plus
-    </a>
-</li>
-<li>
     <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-sedca.jpg">
         ygo-protags-sedca
     </a>
