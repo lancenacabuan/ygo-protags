@@ -3,8 +3,8 @@
         Yu-Gi-Oh! Protagonists + Ace Monsters
     </a>
 </h1>
-<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-shoma.jpg">
-    <img title="Pic 1: ygo-protags-shoma" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-shoma.jpg">
+<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags.jpg">
+    <img title="Pic 1: ygo-protags" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags.jpg">
 </a>
 <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-basic.jpg">
     <img title="Pic 2: ygo-protags-basic" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-basic.jpg">
@@ -66,7 +66,7 @@
                     Facebook (Latest)
                 </a>
             </td>
-            <td title="ygo-protags-shoma">
+            <td title="ygo-protags">
                 <a href="https://www.facebook.com/lancenacabuan/posts/pfbid02rUpbgjUpuxutvSQgHPZQwTkQHkjmQNgdbviV3vYMjmKWgfzbqxNdVukk3mTVmUxyl">
                     Pic 1
                 </a>
@@ -98,7 +98,7 @@
                     DeviantArt (Latest)
                 </a>
             </td>
-            <td title="ygo-protags-shoma">
+            <td title="ygo-protags">
                 <a href="https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Protagonists-Wallpaper-948790915">
                     Pic 1
                 </a>
@@ -135,7 +135,7 @@
                     Reddit (Old Versions)
                 </a>
             </td>
-            <td title="ygo-protags-shoma">
+            <td title="ygo-protags">
                 <a href="https://www.reddit.com/r/yugioh/comments/10xtz0g/yugioh_protagonists_wallpaper_hd/">
                     Pic 1
                 </a>
