@@ -34,6 +34,11 @@
         ygo-protags-talad
     </a>
 </li>
+<li>
+    <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-talad-aces.jpg">
+        ygo-protags-talad-aces
+    </a>
+</li>
 <hr>
 <b>ANIME:</b><br>
 <li>Duel Monsters (Yugi Muto/Yami/Atem) [Dark Magician]</li>
