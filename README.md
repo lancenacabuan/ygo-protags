@@ -17,7 +17,10 @@
     <img title="Pic 4: ygo-protags-max" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-max.jpg">
 </a>
 <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-anime.jpg">
-    <img title="Pic 5: ygo-protags-anime" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-anime.jpg">
+    <img title="Pic 5-A: ygo-protags-anime" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-anime.jpg">
+</a>
+<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-plus.jpg">
+    <img title="Pic 5-B: ygo-protags-plus" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-plus.jpg">
 </a>
 <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-aces.jpg">
     <img title="Pic 6: ygo-protags-aces" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-aces.jpg">
@@ -88,7 +91,7 @@
             </td>
             <td title="ygo-protags-anime">
                 <a href="https://www.facebook.com/lancenacabuan/posts/pfbid0RRM6b9fk5Qxri5EpBvr9za4Pgjcy1nHY1ErDajr2fvGTonuBM5CpMgr9QHU5WkZYl">
-                    Pic 5
+                    Pic 5-A
                 </a>
             </td>
             <td title="ygo-protags-aces">
@@ -125,7 +128,7 @@
             </td>
             <td title="ygo-protags-anime">
                 <a href="https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Anime-Protagonists-951950994">
-                    Pic 5
+                    Pic 5-A
                 </a>
             </td>
             <td title="ygo-protags-aces">
@@ -155,7 +158,7 @@
             </td>
             <td title="ygo-protags-max/anime" colspan="2">
                 <a href="https://www.reddit.com/r/yugioh/comments/11c8zsy/yugioh_protagonists_wallpaper_1080p_full_hd/">
-                    Pic 4 & Pic 5
+                    Pic 4 & Pic 5-A
                 </a>
             </td>
             <td title="ygo-protags-aces">
