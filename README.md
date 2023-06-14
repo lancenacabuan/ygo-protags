@@ -33,6 +33,11 @@
     </a>
 </li>
 <li>
+    <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-standard.jpg">
+        ygo-protags-standard
+    </a>
+</li>
+<li>
     <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-talad.jpg">
         ygo-protags-talad
     </a>
