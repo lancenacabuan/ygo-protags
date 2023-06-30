@@ -3,47 +3,47 @@
         Yu-Gi-Oh! Protagonists + Ace Monsters
     </a>
 </h1>
-<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags.jpg">
-    <img title="Pic 1: ygo-protags" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags.jpg">
+<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-main/ygo-protags.jpg">
+    <img title="Pic 1: ygo-protags" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-main/ygo-protags.jpg">
 </a>
-<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-basic.jpg">
-    <img title="Pic 2: ygo-protags-basic" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-basic.jpg">
+<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-main/ygo-protags-basic.jpg">
+    <img title="Pic 2: ygo-protags-basic" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-main/ygo-protags-basic.jpg">
 </a>
-<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-basic-hd.jpg">
-    <img title="Pic 3: ygo-protags-basic-hd" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-basic-hd.jpg">
+<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-main/ygo-protags-basic-hd.jpg">
+    <img title="Pic 3: ygo-protags-basic-hd" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-main/ygo-protags-basic-hd.jpg">
 </a>
 <br>
-<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-max.jpg">
-    <img title="Pic 4: ygo-protags-max" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-max.jpg">
+<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-main/ygo-protags-max.jpg">
+    <img title="Pic 4: ygo-protags-max" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-main/ygo-protags-max.jpg">
 </a>
-<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-anime.jpg">
-    <img title="Pic 5-A: ygo-protags-anime" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-anime.jpg">
+<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-main/ygo-protags-anime.jpg">
+    <img title="Pic 5-A: ygo-protags-anime" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-main/ygo-protags-anime.jpg">
 </a>
-<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-plus.jpg">
-    <img title="Pic 5-B: ygo-protags-plus" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-plus.jpg">
+<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-main/ygo-protags-plus.jpg">
+    <img title="Pic 5-B: ygo-protags-plus" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-main/ygo-protags-plus.jpg">
 </a>
-<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-aces.jpg">
-    <img title="Pic 6: ygo-protags-aces" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-aces.jpg">
+<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-main/ygo-protags-aces.jpg">
+    <img title="Pic 6: ygo-protags-aces" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-main/ygo-protags-aces.jpg">
 </a>
 <hr>
 <b>OTHER PICS:</b><br>
 <li>
-    <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-sedca.jpg">
+    <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-archives/ygo-protags-sedca.jpg">
         ygo-protags-sedca
     </a>
 </li>
 <li>
-    <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-standard.jpg">
+    <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-archives/ygo-protags-standard.jpg">
         ygo-protags-standard
     </a>
 </li>
 <li>
-    <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-talad.jpg">
+    <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-archives/ygo-protags-talad.jpg">
         ygo-protags-talad
     </a>
 </li>
 <li>
-    <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-talad-aces.jpg">
+    <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-archives/ygo-protags-talad-aces.jpg">
         ygo-protags-talad-aces
     </a>
 </li>
