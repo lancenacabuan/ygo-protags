@@ -133,7 +133,7 @@
                     Pic 4
                 </a>
             </td>
-            <td title="ygo-protags-max">
+            <td title="ygo-protags-plus">
                 <a href="https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Protagonists-Collection-950324939">
                     Pic 5
                 </a>
