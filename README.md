@@ -13,20 +13,22 @@
     <img title="Pic 3: ygo-protags-basic-hd" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-main/ygo-protags-basic-hd.jpg">
 </a>
 <br>
-<a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-main/ygo-protags-max.jpg">
-    <img title="Pic 4: ygo-protags-max" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-main/ygo-protags-max.jpg">
-</a>
 <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-main/ygo-protags-anime.jpg">
-    <img title="Pic 5-A: ygo-protags-anime" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-main/ygo-protags-anime.jpg">
+    <img title="Pic 4-A: ygo-protags-anime" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-main/ygo-protags-anime.jpg">
 </a>
 <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-main/ygo-protags-plus.jpg">
-    <img title="Pic 5-B: ygo-protags-plus" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-main/ygo-protags-plus.jpg">
+    <img title="Pic 4-B: ygo-protags-plus" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-main/ygo-protags-plus.jpg">
 </a>
 <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-main/ygo-protags-aces.jpg">
-    <img title="Pic 6: ygo-protags-aces" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-main/ygo-protags-aces.jpg">
+    <img title="Pic 5: ygo-protags-aces" src="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-main/ygo-protags-aces.jpg">
 </a>
 <hr>
 <b>OTHER PICS:</b><br>
+<li>
+    <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-main/ygo-protags-max.jpg">
+        ygo-protags-max
+    </a>
+</li>
 <li>
     <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-archives/ygo-protags-sedca.jpg">
         ygo-protags-sedca
@@ -89,19 +91,19 @@
                     Pic 2 & Pic 3
                 </a>
             </td>
-            <td title="ygo-protags-max">
-                <a href="https://www.facebook.com/lancenacabuan/posts/pfbid0KPmGV9LzoYFoQ5QV3CwTN4JnzLSQoyVoQntpceS1VRfab3XeU1qXNGa6gXMRSDK5l">
-                    Pic 4
-                </a>
-            </td>
             <td title="ygo-protags-anime">
                 <a href="https://www.facebook.com/lancenacabuan/posts/pfbid0RRM6b9fk5Qxri5EpBvr9za4Pgjcy1nHY1ErDajr2fvGTonuBM5CpMgr9QHU5WkZYl">
-                    Pic 5-A
+                    Pic 4-A
+                </a>
+            </td>
+            <td title="ygo-protags-plus">
+                <a href="https://www.facebook.com/lancenacabuan/posts/pfbid0KPmGV9LzoYFoQ5QV3CwTN4JnzLSQoyVoQntpceS1VRfab3XeU1qXNGa6gXMRSDK5l">
+                    Pic 4-B
                 </a>
             </td>
             <td title="ygo-protags-aces">
                 <a href="https://www.facebook.com/lancenacabuan/posts/pfbid0jx69RfLA5MaF8Jo8qRKw4uE2FBK4LSWRYgv8TmjUDra1exqa8gKzR5MTmJPwuFJDl">
-                    Pic 6
+                    Pic 5
                 </a>
             </td>
         </tr>
@@ -126,14 +128,14 @@
                     Pic 3
                 </a>
             </td>
-            <td title="ygo-protags-max">
-                <a href="https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Protagonists-Collection-950324939">
-                    Pic 4
-                </a>
-            </td>
             <td title="ygo-protags-anime">
                 <a href="https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Anime-Protagonists-951950994">
-                    Pic 5-A
+                    Pic 4-A
+                </a>
+            </td>
+            <td title="ygo-protags-max">
+                <a href="https://www.deviantart.com/c4lance/art/Yu-Gi-Oh-Protagonists-Collection-950324939">
+                    Pic 4-B
                 </a>
             </td>
             <td title="ygo-protags-aces">
@@ -161,14 +163,17 @@
             <td>
                 N/A
             </td>
-            <td title="ygo-protags-max/anime" colspan="2">
+            <td>
+                N/A
+            </td>
+            <td title="ygo-protags-plus">
                 <a href="https://www.reddit.com/r/yugioh/comments/11c8zsy/yugioh_protagonists_wallpaper_1080p_full_hd/">
-                    Pic 4 & Pic 5-A
+                    Pic 4-B
                 </a>
             </td>
             <td title="ygo-protags-aces">
                 <a href="https://www.reddit.com/r/yugioh/comments/11q4c3e/best_ace_monster_which_protagonist_main_ace/">
-                    Pic 6
+                    Pic 5
                 </a>
             </td>
         </tr>
