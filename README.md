@@ -30,22 +30,22 @@
     </a>
 </li>
 <li>
-    <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-archives/ygo-protags-sedca.jpg">
+    <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-archives/mats/ygo-protags-sedca.jpg">
         ygo-protags-sedca
     </a>
 </li>
 <li>
-    <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-archives/ygo-protags-standard.jpg">
+    <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-archives/mats/ygo-protags-standard.jpg">
         ygo-protags-standard
     </a>
 </li>
 <li>
-    <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-archives/ygo-protags-talad.jpg">
+    <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-archives/mats/ygo-protags-talad.jpg">
         ygo-protags-talad
     </a>
 </li>
 <li>
-    <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-archives/ygo-protags-talad-aces.jpg">
+    <a href="https://raw.githubusercontent.com/lancenacabuan/ygo-protags/main/ygo-protags-archives/mats/ygo-protags-talad-aces.jpg">
         ygo-protags-talad-aces
     </a>
 </li>
